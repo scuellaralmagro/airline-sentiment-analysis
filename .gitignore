@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+svm_classifier.joblib
+svm_extract_features.joblib
